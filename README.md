@@ -30,6 +30,7 @@ If you are trying to get data from the github repo and you see this
 remember to get the link for the _raw_ data, not the data as it appears rendered on github
 
 
+Remember to put the data into your drive you will have to make a folder called DSPS23_final (use the command `!mkdir`) and move to that folder after creation with the command `cd DSPS23_final` or `cd /content/drive/MyDrive/DSPS23_final` depending on where you are
 
 
 
