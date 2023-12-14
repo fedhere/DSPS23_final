@@ -21,16 +21,9 @@ If you see this
 You have not agreed to the terms of conditions. Go on the Kaggle website for this challenge and “Join the challenge” in the Data tab
 
 
-If you are trying to get data from the github repo and you see this 
-
-
-
-<img width="642" alt="Screen Shot 2023-12-12 at 2 49 52 PM" src="https://github.com/fedhere/DSPS23_final/assets/1696902/06d8989c-ded3-4b77-9256-0fd51916d18c">
-
-remember to get the link for the _raw_ data, not the data as it appears rendered on github
-
-
 Remember to put the data into your drive you will have to make a folder called DSPS23_final (use the command `!mkdir`) and move to that folder after creation with the command `cd DSPS23_final` or `cd /content/drive/MyDrive/DSPS23_final` depending on where you are
+
+**The data is large** : if at any points your code is too slow to do whatever you are trying to do on all the data or it takes too much memory consider _subsampling_
 
 
 
