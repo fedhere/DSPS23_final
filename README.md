@@ -1,6 +1,8 @@
 # DSPS23_final
 Final exam for DSPS
 
+READ THE INSTRUCTIONS IN THE EXAM NOTEBOOK WITH ATTENTION! 
+
 
 DONT STAY STUCK!! Here are some tips and solutions for possible errors you may encounter. 
 
