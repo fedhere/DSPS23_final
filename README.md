@@ -3,6 +3,23 @@ Final exam for DSPS
 
 READ THE INSTRUCTIONS IN THE EXAM NOTEBOOK WITH ATTENTION! 
 
+https://github.com/fedhere/DSPS23_final/blob/main/DSPS2023_final.ipynb
+
+Note the delivery modality:
+
+- Remember to copy this notebook to your own Google Drive _before_ you start working.
+- Share this notebook with Dr. Bianco and Willow to submit.
+    - Press the 'Share' button in the top right.
+      <img width="856" alt="Screen Shot 2023-12-15 at 6 31 24 PM" src="https://github.com/fedhere/DSPS23_final/assets/1696902/d70ed317-86fb-4396-b7f5-a7eaf1434dfd">
+
+    - Make us editors when you share the notebook.
+    - Share the notebook with our emails:
+        - fbianco@udel.edu
+        - fortino@udel.edu.
+     <img width="503" alt="Screen Shot 2023-12-15 at 6 31 10 PM" src="https://github.com/fedhere/DSPS23_final/assets/1696902/12db2591-ff50-44d9-9dac-3cf408cd6354">
+
+- Do _not_ push your work to GitHub. This will enable anyone to see your work. If you do this by accident, let Willow or Dr. Bianco know and we can help you remove it permanently from GitHub.
+
 
 DONT STAY STUCK!! Here are some tips and solutions for possible errors you may encounter. 
 
