@@ -5,6 +5,9 @@ READ THE INSTRUCTIONS IN THE EXAM NOTEBOOK WITH ATTENTION!
 
 https://github.com/fedhere/DSPS23_final/blob/main/DSPS2023_final.ipynb
 
+If the 'Open In Colab' link does not work, use this link:  
+https://colab.research.google.com/drive/1Bemaf7pG2THHknrujw3tlZb5D5dKcBZ5?usp=sharing
+
 Note the delivery modality:
 
 - Remember to copy this notebook to your own Google Drive _before_ you start working.
